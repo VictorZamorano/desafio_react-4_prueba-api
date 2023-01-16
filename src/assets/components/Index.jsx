@@ -35,7 +35,7 @@ const Index = () => {
 			></Img>
 			<div className="w-50 mx-auto">
 				<MiApi
-					containerMiapi={"border border-warning mb-4 mt-4"}
+					containerMiapi={"border border-2 border-warning mb-4 mt-4 "}
 					text={"Pokemons"}
 					containerTittle={"d-flex justify-content-around mt-2 mb-2"}
 					classNInput={"form-control w-50"}
